@@ -1,10 +1,10 @@
 {
   "semantics": [
     {
-      "label": "Medien",
+      "label": "Medien TEST",
       "fields": [
         {
-          "label": "Typ",
+          "label": "Typ TEST2",
           "description": "Optionale Medien, die über der Frage angezeigt werden können."
         },
         {
